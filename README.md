@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 
 ### 🧑‍💻 Visit My Blog!
-
+<a href="https://abc-datatype.tistory.com/">
 <img src="https://img.shields.io/badge/Tistory-FC4C02.svg?style=for-the-badge&logo=tistory&logoColor=white" />
-
+</a>
 <br/>
 <br/>
 <br/>
